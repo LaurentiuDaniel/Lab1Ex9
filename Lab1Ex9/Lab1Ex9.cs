@@ -31,7 +31,10 @@ class Lab1Ex9
                 Console.WriteLine("Trei");
                 break;
             case 5:
-                Console.WriteLine("8");
+                Console.WriteLine("Cinci");
+                break;
+            case 8:
+                Console.WriteLine("Opt");
                 break;
             default:
                 Console.WriteLine("Neidentificat");
